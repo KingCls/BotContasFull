@@ -1,0 +1,1 @@
+worker: python account_gen_bot.py
